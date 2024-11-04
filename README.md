@@ -8,8 +8,8 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/newsletter-sign-up-form-with-success-message-solution-XLeRWZUZ7l)
-- Live Site URL: [here](https://sunilbaghel002.github.io/newsletter-sign-up-with-success-message-main/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-solution-C3TGjLe1sl)
+- Live Site URL: [here](https://sunilbaghel002.github.io/time-tracking-dashboard/)
 
 ## My process
 
